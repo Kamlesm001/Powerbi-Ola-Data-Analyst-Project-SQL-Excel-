@@ -56,8 +56,8 @@ The dataset contains **100,000+ Ola ride bookings** with:
 - Successful vs Cancelled Rides
 - Booking trend over time
 
-![Overall Dashboard](<img width="1112" height="621" alt="Screenshot 2026-02-06 165857" src="https://github.com/user-attachments/assets/e94dd3ba-d845-45ad-9397-410539a08707" />)
-
+[Overall Dashboard]
+<img width="789" height="436" alt="overall png" src="https://github.com/user-attachments/assets/2c4f39c7-7fed-45cd-a0f0-3c3ce302121d" />
 ---
 
 ### 🚗 Vehicle Type Analysis
@@ -65,8 +65,8 @@ The dataset contains **100,000+ Ola ride bookings** with:
 - Success bookings per category
 - Average distance travelled
 
-![Vehicle Type Dashboard](<img width="1111" height="620" alt="Screenshot 2026-02-06 165946" src="https://github.com/user-attachments/assets/d8027266-fb1d-40ef-b595-eb3ff9595e06" />)
-
+[Vehicle Type Dashboard]
+<img width="790" height="441" alt="vehicle_type png" src="https://github.com/user-attachments/assets/4cba7885-658c-419a-9e17-099068cbc774" />
 ---
 
 ### 💰 Revenue Analysis
@@ -75,8 +75,8 @@ The dataset contains **100,000+ Ola ride bookings** with:
 - Daily revenue trend
 - Top 5 customers by booking value
 
-![Revenue Dashboard](<img width="1111" height="618" alt="Screenshot 2026-02-06 170010" src="https://github.com/user-attachments/assets/1668c85b-fcdf-4c53-9fb7-cc54127dfaca" />)
-
+[Revenue Dashboard]
+<img width="784" height="437" alt="revenue png" src="https://github.com/user-attachments/assets/a7d103b5-6b79-4e85-8aa2-6527e8f8d4fb" />
 ---
 
 ### ❌ Cancellation Analysis
@@ -84,16 +84,16 @@ The dataset contains **100,000+ Ola ride bookings** with:
 - Cancellation rate
 - Reasons for cancellation (Customer vs Driver)
 
-![Cancellation Dashboard](<img width="1105" height="621" alt="Screenshot 2026-02-06 170103" src="https://github.com/user-attachments/assets/97adaff5-c190-43ca-ab73-55b103f1d674" />)
-
+[Cancellation Dashboard]
+<img width="779" height="433" alt="cancellation png" src="https://github.com/user-attachments/assets/3e247bf8-eff8-4e9a-a1e2-82e5d88afc64" />
 ---
 
 ### ⭐ Ratings Analysis
 - Driver ratings by vehicle type
 - Customer ratings by vehicle type
 
-![Ratings Dashboard](<img width="1115" height="616" alt="Screenshot 2026-02-06 170128" src="https://github.com/user-attachments/assets/eab4b4b3-a968-41fd-820e-632a1175dde7" />)
-
+[Ratings Dashboard]
+<img width="796" height="442" alt="ratings png" src="https://github.com/user-attachments/assets/6292027e-78bb-4d45-a329-7188653ceebf" />
 ---
 
 ## 🧾 SQL Output Highlights
