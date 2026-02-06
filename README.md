@@ -70,6 +70,7 @@ The dataset contains **100,000+ Ola ride bookings** with:
 ---
 
 ### 💰 Revenue Analysis
+
 - Revenue by payment method
 - Daily revenue trend
 - Top 5 customers by booking value
@@ -83,8 +84,7 @@ The dataset contains **100,000+ Ola ride bookings** with:
 - Cancellation rate
 - Reasons for cancellation (Customer vs Driver)
 
-![Cancellation Dashboard](<img width="1105" height="621" alt="Screenshot 2026-02-06 170103" src="https://github.com/user-attachments/assets/97adaff5-c190-43ca-ab73-55b103f1d674" />
-)
+![Cancellation Dashboard](<img width="1105" height="621" alt="Screenshot 2026-02-06 170103" src="https://github.com/user-attachments/assets/97adaff5-c190-43ca-ab73-55b103f1d674" />)
 
 ---
 
@@ -92,8 +92,7 @@ The dataset contains **100,000+ Ola ride bookings** with:
 - Driver ratings by vehicle type
 - Customer ratings by vehicle type
 
-![Ratings Dashboard](<img width="1115" height="616" alt="Screenshot 2026-02-06 170128" src="https://github.com/user-attachments/assets/eab4b4b3-a968-41fd-820e-632a1175dde7" />
-)
+![Ratings Dashboard](<img width="1115" height="616" alt="Screenshot 2026-02-06 170128" src="https://github.com/user-attachments/assets/eab4b4b3-a968-41fd-820e-632a1175dde7" />)
 
 ---
 
